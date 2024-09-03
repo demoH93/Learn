@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1725363975 source:e:\leetcode_sol\unit4_lesson2_ca_2\ca.c
+	"CA.h"
+
+1725364159 e:\leetcode_sol\unit4_lesson2_ca_2\ca.h
+	<stdio.h>
+	<stdlib.h>
+	"state.h"
+
+1725364222 e:\leetcode_sol\unit4_lesson2_ca_2\state.h
+
+1725364695 source:e:\leetcode_sol\unit4_lesson2_ca_2\dc.c
+	"DC.h"
+
+1725364535 source:e:\leetcode_sol\unit4_lesson2_ca_2\us_sensor.c
+	"US_sensor.h"
+
+1725364973 source:e:\leetcode_sol\unit4_lesson2_ca_2\main.c
+	"US_sensor.h"
+	"CA.h"
+	"DC.h"
+
+1725362840 e:\leetcode_sol\unit4_lesson2_ca_2\us_sensor.h
+	<stdio.h>
+	<stdlib.h>
+	"state.h"
+
+1725362840 e:\leetcode_sol\unit4_lesson2_ca_2\dc.h
+	<stdio.h>
+	<stdlib.h>
+	"state.h"
+
